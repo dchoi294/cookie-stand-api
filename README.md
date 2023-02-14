@@ -8,6 +8,10 @@ Author: Don Choi
 
 This app includes a frontend site that displays data about cookie stands. It also supports a Django REST Api. It uses a PostgreSQL database supplied by ElephantSQL.
 
+## Link
+
+[Deployed Site](https://cookie-stand-api-lovat.vercel.app/)
+
 ## Setup
 
 requires .env
