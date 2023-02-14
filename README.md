@@ -1,3 +1,17 @@
+# LAB - Class41
+
+## Project Name: cookie-stand-api
+
+Author: Don Choi
+
+## Description
+
+This app includes a frontend site that displays data about cookie stands. It also supports a Django REST Api. It uses a PostgreSQL database supplied by ElephantSQL.
+
+## Setup
+
+requires .env
+
 # api-quick-start
 
 Template Project for starting up CRUD API with Django Rest Framework
